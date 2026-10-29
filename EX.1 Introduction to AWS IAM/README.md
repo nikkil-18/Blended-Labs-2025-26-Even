@@ -43,7 +43,8 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1190" height="563" alt="image" src="https://github.com/user-attachments/assets/b5e03b5d-3b3c-4c86-9e8e-b97fd3191ef8" />
+
 
 
 ## Workflow
@@ -66,6 +67,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
-**Course:** Introduction to Cloud Computing  
+**Name:** nikkil varshan r k (212225040280)
+**Course:** Cloud Computing
 
